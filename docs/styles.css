@@ -12,14 +12,14 @@ body {
     margin-inline: 0;
     margin-block: 0;
     font-family: 'Algerian', algerian;
-    background-image: url('images/background-cover.jpg');
+    background-image: url('images/background-cover.png');
 }
 
 h1, h2 {
     font-family: 'Dosis', algerian;
     font-weight: 300;
     text-transform: uppercase;
-    color: #000000;
+    color: #ffffff;
 }
 
 h1 {
