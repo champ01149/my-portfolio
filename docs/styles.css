@@ -210,7 +210,7 @@ img.anchor {
 }
 
 .my-picture {
-    max-inline-size: 75px;
+    max-inline-size: 750px;
     margin-inline-end: 0;
 }
 
@@ -226,6 +226,8 @@ img.anchor {
 
     .my-picture {
         margin-inline-end: 1rem;
+        width: 300px;
+        height: 600px;
     }
 
     #portfolio {
